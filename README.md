@@ -1,4 +1,4 @@
-# Full-Stack-GenAI-Bootcamp-1.0
+# Full-Stack-GenAI-Bootcamp-1.00
 
 ### 👨‍🏫 Meet Your Mentor
 
